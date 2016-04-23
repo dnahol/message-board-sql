@@ -1,0 +1,19 @@
+{
+  "name": "jade-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "moment": "^2.13.0",
+    "node-static": "^0.7.7",
+    "qs": "^6.1.0"
+  }
+}
